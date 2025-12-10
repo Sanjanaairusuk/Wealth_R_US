@@ -117,7 +117,7 @@
 }
 
 .hero-section .highlight {
-    color: #ffd700;
+    color: #02264d;
 }
 
 .hero-section h1 {
@@ -224,7 +224,7 @@
 }
 
 .btn-light {
-    background: #ffd700;
+    background: #02264d;
     padding: 14px 32px;
     color: #02264d;
     border-radius: 6px;
@@ -235,7 +235,7 @@
 }
 
 .btn-light:hover {
-    background: #ffce00;
+    background: #02264d;
 }
 /* MAIN FOOTER DESIGN */
 .footer {
