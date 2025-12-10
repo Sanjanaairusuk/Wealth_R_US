@@ -319,3 +319,8 @@
 .bottom-footer-container {
   text-align: center;
 }
+<style>
+.inner_banner h1 {
+    color: #003366;
+}
+</style>
